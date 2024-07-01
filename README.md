@@ -1,5 +1,5 @@
 ## Hi there 👋, i'm Mohamed
-## cyber secuurity engineer and web develober
+## cyber secuurity engineer and web developer
 
 
 
