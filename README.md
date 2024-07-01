@@ -1,7 +1,7 @@
 
 
 ## Hi there 👋, i'm Mohamed
-## cyber secuurity engineer and web developer
+## cyber security engineer and web developer
 
 
 
@@ -50,7 +50,7 @@
   <a href="https://www.facebook.com/mohamed.thabet.545?mibextid=kFxxJD" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Mohamed Thabet" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/mohamed__.thabet?igsh=N3Q0OXYzanJmMnFn" target="blank"><img align="center"
+  <a href="https://www.instagram.com/m7mad_thabet/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="m7mad_thabet" height="30" width="40" /></a>
 
