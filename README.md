@@ -15,7 +15,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,php,laravel"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -58,20 +58,6 @@
 
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 🐍 &nbsp;That's How Commits move ...
 
 <div align="center">
@@ -82,45 +68,5 @@
 
 <p><img width ="400px" align="center" src="https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" alt="mohamed" /></p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> -->
-<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> -->
-<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a> -->
-<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a> -->
-<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a> -->
-<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a> -->
-<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a> -->
-<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a> --> 
-<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='[https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg](https://profilinator.rishav.dev/skills-assets/php-original.svg)'> </a>
-<img  width ='32px' src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
 
 
