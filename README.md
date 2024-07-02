@@ -14,22 +14,22 @@
 
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</th>
         <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,php,laravel"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</th>
         <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts"/></td>
     </tr>
 <!--     <tr>
        ight="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
     </tr> -->
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</th>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,redis"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</th>
         <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/></td>
     </tr>
 <!--     <tr>
