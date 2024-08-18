@@ -58,13 +58,6 @@
 
 <br>
 
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <p><img width ="400px" align="center" src="https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" alt="mohamed" /></p>
 
