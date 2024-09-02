@@ -15,13 +15,13 @@
 <table>
     <tr>
         <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</th>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,php,laravel"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,laravel"/></td>
     </tr>
     <tr>
         <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</th>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,html,css,js"/></td>
     </tr>
-<!--     <tr>
+    <!-- <tr>
        ight="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
     </tr> -->
     <tr>
@@ -30,7 +30,7 @@
     </tr>
     <tr>
         <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</th>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
     </tr>
 <!--     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
