@@ -41,6 +41,9 @@ I specialize in creating secure and scalable web applications, focusing on robus
   <a href="https://www.instagram.com/m7mad_thabet/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram" height="30" width="40" /></a>
+  <a href="https://x.com/Mohamed13546660/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="twitter" height="30" width="40" /></a>
 </p>
 
 ## Status
