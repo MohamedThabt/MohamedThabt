@@ -4,7 +4,7 @@
 
 ## About Me
 
-🪲 **Bug Bounty Hunter** | 🌐 **Back End Engineer** | 🛠️ **Problem Solver**
+| 🌐 **Back End Engineer** | 
 
 I specialize in creating secure and scalable web applications, focusing on robust back-end systems and cutting-edge security practices. My goal is to build innovative solutions while ensuring data protection and system integrity.
 
