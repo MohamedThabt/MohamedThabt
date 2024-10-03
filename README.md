@@ -9,7 +9,6 @@
 I specialize in creating secure and scalable web applications, focusing on robust back-end systems and cutting-edge security practices. My goal is to build innovative solutions while ensuring data protection and system integrity.
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
-
 <table>
     <tr>
         <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</th>
@@ -27,8 +26,11 @@ I specialize in creating secure and scalable web applications, focusing on robus
         <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</th>
         <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
     </tr>
+    <tr>
+        <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Scripting:</th>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash"/></td>
+    </tr>
 </table>
-
 ## Connect with me:
 
 <p align="left">
