@@ -1,10 +1,12 @@
 # Hi, I'm Mohamed Thabet! 👋✨
 
 <p align="center">
-  <img width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Mohamed" />
+<!--   <img width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Mohamed" /> -->
+  <img width="400" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Mohamed" />
 </p>
 
-## 🚀 About Me
+
+## About Me 🚀
 
 I'm a passionate **Computer Science Student** and aspiring **Back End Engineer**. I'm currently focusing on mastering Laravel and building secure, scalable web applications. My goal is to develop innovative solutions while ensuring data protection and system integrity.
 
@@ -13,7 +15,7 @@ I'm a passionate **Computer Science Student** and aspiring **Back End Engineer**
 - 💻 Aspiring Back End Engineer
 - 🔒 Interested in web security and robust system design
 
-## 🛠️ Skills & Technologies
+## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
 <table>
     <tr>
