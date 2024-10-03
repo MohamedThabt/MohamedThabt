@@ -56,11 +56,6 @@ I'm a passionate **Computer Science Student** and aspiring **Back End Engineer**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedThabt&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-## 🌟 Featured Projects
-
-- [Project 1]: Brief description and link
-- [Project 2]: Brief description and link
-- [Project 3]: Brief description and link
 
 ## 📫 Let's Connect!
 
