@@ -4,7 +4,7 @@
 <table style="border: none;">
   <tr style="border: none;">
     <td width="50%" style="border: none;">
-      <h2>About Me <img src="https://media.giphy.com/media/26DN81TqLPIzBlksw/giphy.gif" width="25px"> 🚀</h2>
+      <h2>About Me 🚀</h2>
       <p>I'm a passionate <strong>Computer Science Student</strong> and aspiring <strong>Back End Engineer</strong>. I'm currently focusing on mastering Laravel and building secure, scalable web applications. My goal is to develop innovative solutions while ensuring data protection and system integrity.</p>
       <ul>
         <li>🎓 Studying Computer Science</li>
