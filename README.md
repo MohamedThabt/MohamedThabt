@@ -1,4 +1,10 @@
 # Hi, I'm Mohamed Thabet! 👋✨
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AE1&center=true&vCenter=true&width=435&lines=Always+learning%2C+always+growing;Passionate+about+web+development;Building+the+future+with+code" alt="Typing SVG" />
+</p>
+
+
 <!--   <img width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Mohamed" /> -->
 
 <table style="border: none;">
@@ -92,11 +98,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamedThabt&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
-
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AE1&center=true&vCenter=true&width=435&lines=Always+learning%2C+always+growing;Passionate+about+web+development;Building+the+future+with+code" alt="Typing SVG" />
-</p>
 
 ⭐️ From [MohamedThabt](https://github.com/MohamedThabt)
