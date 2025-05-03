@@ -19,34 +19,52 @@
 </table>
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
-
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
       <table>
         <tr>
-            <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</th>
-            <td><img height="40" src="https://skillicons.dev/icons?i=php,laravel"/></td>
+          <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</th>
+          <td>
+            <img height="40" src="https://skillicons.dev/icons?i=php,laravel,go"/>
+          </td>
         </tr>
         <tr>
-            <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</th>
-            <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,html,css,js"/></td>
+          <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</th>
+          <td>
+            <img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+          </td>
         </tr>
         <tr>
-            <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</th>
-            <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,redis"/></td>
+          <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</th>
+          <td>
+            <img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,redis"/>
+          </td>
         </tr>
         <tr>
-            <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</th>
-            <td><img height="40" src="https://skillicons.dev/icons?i=github,git"/></td>
+          <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</th>
+          <td>
+            <img height="40" src="https://skillicons.dev/icons?i=git,github"/>
+          </td>
         </tr>
         <tr>
-            <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Scripting:</th>
-            <td><img height="40" src="https://skillicons.dev/icons?i=bash"/></td>
+          <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">API & Auth:</th>
+          <td>
+            <img height="40" src="https://skillicons.dev/icons?i=postman"/>
+            <img height="40" src="https://img.shields.io/badge/Sanctum-Auth-blue?style=flat-square&logo=laravel&logoColor=white" alt="Sanctum" />
+          </td>
         </tr>
         <tr>
-            <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</th>
-            <td><img height="40" src="https://skillicons.dev/icons?i=vscode,docker,figma"/></td>
+          <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Scripting:</th>
+          <td>
+            <img height="40" src="https://skillicons.dev/icons?i=bash"/>
+          </td>
+        </tr>
+        <tr>
+          <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</th>
+          <td>
+            <img height="40" src="https://skillicons.dev/icons?i=vscode,docker,figma,notion"/>
+          </td>
         </tr>
       </table>
     </td>
