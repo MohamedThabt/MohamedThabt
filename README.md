@@ -26,7 +26,7 @@
         <tr>
           <th style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</th>
           <td>
-            <img height="40" src="https://skillicons.dev/icons?i=php,laravel,go"/>
+            <img height="40" src="https://skillicons.dev/icons?i=php,laravel,python,django"/>
           </td>
         </tr>
         <tr>
