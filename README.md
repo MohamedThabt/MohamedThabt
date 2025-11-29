@@ -54,17 +54,6 @@ mindmap
       Experimentation
 ```
 
----
-
-## 🎯 Current Quest
-
-**🎓 Currently Mastering:**
-- Building RESTful APIs that developers love to use
-- Implementing authentication systems that actually work
-- Designing database schemas that scale
-- Writing code that my future self won't curse at
-
----
 
 ## 💻 My Tech Toolkit
 
@@ -79,66 +68,6 @@ mindmap
 
 </div>
 
----
-
-## 🏗️ Architecture Philosophy
-
-I believe in:
-- **Separation of Concerns** → Each component does one thing well
-- **DRY Principle** → Don't repeat yourself (or others)
-- **SOLID Principles** → The foundation of maintainable code
-- **Security by Design** → Not an afterthought, but a core feature
-- **Test-Driven Development** → Because bugs are expensive
-
----
-
-## 📈 Growth Trajectory
-
-```mermaid
-xychart-beta
-    title "My Skills Evolution"
-    x-axis [2022, 2023, 2024, 2025]
-    y-axis "Proficiency" 0 --> 100
-    line [20, 45, 70, 85]
-```
-
-**2022** → Started with basics, fell in love with problem-solving  
-**2023** → Dove into backend development, discovered Laravel  
-**2024** → Focused on security, API design, and clean architecture  
-**2025** → Building production-ready systems, exploring microservices
----
-
-## 🎨 The Creative Side
-
-I don't just write code—I craft solutions. Every API endpoint is a conversation, every database schema tells a story, and every security layer is a fortress protecting user trust.
-
-```
-┌─────────────────────────────────────────┐
-│  while (alive) {                        │
-│    eat();                               │
-│    sleep();                             │
-│    code();                              │
-│    repeat();                            │
-│  }                                      │
-└─────────────────────────────────────────┘
-```
-
----
-
-## 🤝 Let's Build Something Amazing
-
-I'm always open to:
-- 🚀 Collaborating on interesting projects
-- 💬 Discussing software architecture and design patterns
-- 🔒 Exploring web security challenges
-- 🌱 Learning from experienced developers
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-thabet-5694462a0)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow_Journey-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mohamed13546660)
-  
-</div>
 
 ---
 
