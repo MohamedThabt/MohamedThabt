@@ -8,22 +8,6 @@
 
 ---
 
-## 🎭 The Story So Far...
-
-```mermaid
-graph LR
-    A[💡 Curiosity] --> B[🎓 CS Student]
-    B --> C[💻 Backend Focus]
-    C --> D[🚀 Building Solutions]
-    D --> E[🌟 Your Project?]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#ffd93d
-```
-
 I'm **Mohamed Thabet**, a software engineer in the making who believes every problem is just a puzzle waiting to be solved. My journey started with a simple "Hello World" and evolved into building systems that actually matter.
 
 **What drives me?** The satisfaction of watching clean code compile, the thrill of solving complex problems, and the impact of creating something that makes life easier for others.
