@@ -26,12 +26,7 @@
 
 <h3><code>sirthabet@github ~ $ neofetch</code></h3>
 
-<table>
-  <tr>
-    <td valign="top"><img src="./assets/ascii-portrait.svg" width="370" alt="ASCII portrait of Mohamed Thabet" /></td>
-    <td valign="top"><img src="./assets/info-card.svg" width="490" alt="Profile card: role, stack and highlights" /></td>
-  </tr>
-</table>
+<img src="./assets/info-card.svg" width="490" alt="Profile card: role, stack and highlights" />
 
 <br>
 
