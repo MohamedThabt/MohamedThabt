@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="860" alt="Mohamed Thabet — Software & Applied AI Engineer" />
+<a href="https://sirthabet.dev"><img src="./assets/banner.svg" width="860" alt="Mohamed Thabet — Software &amp; Applied AI Engineer. Visit sirthabet.dev" /></a>
 
 <br><br>
 
@@ -29,12 +29,6 @@
 <img src="./assets/info-card.svg" width="490" alt="Profile card: role, stack and highlights" />
 
 <br>
-
-<h3><code>sirthabet@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./assets/contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap for the last 12 months" />
-
-<br><br>
 
 <h3><code>sirthabet@github ~ $ ls ~/builds</code></h3>
 
@@ -111,6 +105,6 @@ The fastest way in is a short email about the role or project: **[mohamedthabett
 
 <br><br>
 
-<sub>hand-written animated SVGs · heatmap refreshed daily by GitHub Actions · ask the knight on <a href="https://sirthabet.dev">sirthabet.dev</a></sub>
+<sub>hand-written animated SVGs · ask the knight on <a href="https://sirthabet.dev">sirthabet.dev</a></sub>
 
 </div>
